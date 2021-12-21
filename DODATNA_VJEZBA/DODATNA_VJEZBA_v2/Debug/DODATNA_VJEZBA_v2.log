@@ -1,0 +1,5 @@
+﻿  Longnumber.c
+  main.c
+C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\DODATNA_VJEZBA_v2\DODATNA_VJEZBA_v2\main.c(11,8): warning C4013: 'printf' undefined; assuming extern returning int
+  Generating Code...
+  DODATNA_VJEZBA_v2.vcxproj -> C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\DODATNA_VJEZBA_v2\Debug\DODATNA_VJEZBA_v2.exe

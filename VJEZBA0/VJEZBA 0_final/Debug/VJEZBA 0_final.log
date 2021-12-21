@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 0_final\VJEZBA 0_final\strings.h(59,31): warning C4133: 'return': incompatible types - from 'char *' to 'int *'
+C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 0_final\VJEZBA 0_final\strings.h(77,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 0_final\VJEZBA 0_final\strings.h(77,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 0_final\VJEZBA 0_final\strings.h(77,9): message : the missing variadic argument 1 is required by format string '%d'
+  VJEZBA 0_final.vcxproj -> C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 0_final\Debug\VJEZBA 0_final.exe

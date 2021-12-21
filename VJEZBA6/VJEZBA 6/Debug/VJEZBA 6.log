@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 6\VJEZBA 6\main.c(5,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VJEZBA 6.vcxproj -> C:\Users\840 g3\Desktop\FAKS\2.GODINA\SPA\VJEZBA 6\Debug\VJEZBA 6.exe
